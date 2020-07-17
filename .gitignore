@@ -5,3 +5,4 @@ package-lock.json
 /source/statics/*
 CNAME
 opensource.json
+node_modules
